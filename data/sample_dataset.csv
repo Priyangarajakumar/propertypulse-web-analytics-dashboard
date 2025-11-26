@@ -1,0 +1,90 @@
+date,page,city,device,sessions,users,bounce_rate,avg_session_duration_sec,conversions,top_keyword,page_load_time_sec,conversion_rate
+2025-07-01,Home,Mumbai,Mobile,87,72,45.2,145,3,buy apartment,2.1,0.0345
+2025-07-01,Listing_A,Delhi,Desktop,56,48,38.7,267,5,rent apartment,1.8,0.0893
+2025-07-01,Blog_Rental_Tips,Bangalore,Mobile,43,35,62.3,89,1,affordable flats,2.3,0.0233
+2025-07-02,Listing_B,Mumbai,Desktop,92,78,41.5,312,6,property near me,1.9,0.0652
+2025-07-02,Home,Chennai,Mobile,68,54,52.8,132,2,buy apartment,2.4,0.0294
+2025-07-03,Listing_C,Pune,Desktop,75,63,35.4,289,4,rent apartment,1.7,0.0533
+2025-07-03,Listing_A,Hyderabad,Mobile,51,42,58.9,178,3,property near me,2.2,0.0588
+2025-07-04,Blog_Rental_Tips,Mumbai,Desktop,39,31,71.2,95,0,affordable flats,2,0
+2025-07-04,Home,Delhi,Mobile,104,88,48.3,156,5,buy apartment,2.5,0.0481
+2025-07-05,Listing_B,Bangalore,Desktop,88,74,39.6,298,7,rent apartment,1.6,0.0795
+2025-07-05,Listing_A,Mumbai,Mobile,62,51,55.1,189,2,property near me,2.3,0.0323
+2025-07-06,Home,Chennai,Desktop,97,82,42.7,167,4,buy apartment,1.8,0.0412
+2025-07-06,Listing_C,Pune,Mobile,47,38,64.5,142,1,affordable flats,2.6,0.0213
+2025-07-07,Blog_Rental_Tips,Hyderabad,Desktop,34,27,68.9,102,1,rent apartment,2.1,0.0294
+2025-07-08,Listing_A,Delhi,Mobile,79,66,47.8,201,3,property near me,2.4,0.038
+2025-07-08,Home,Mumbai,Desktop,113,96,36.2,178,6,buy apartment,1.7,0.0531
+2025-07-09,Listing_B,Bangalore,Mobile,71,59,51.4,234,4,rent apartment,2.2,0.0563
+2025-07-09,Listing_C,Chennai,Desktop,84,70,40.8,276,5,property near me,1.9,0.0595
+2025-07-10,Home,Pune,Mobile,65,53,56.7,128,2,buy apartment,2.5,0.0308
+2025-07-10,Blog_Rental_Tips,Mumbai,Desktop,41,33,73.4,87,0,affordable flats,2,0
+2025-07-11,Listing_A,Hyderabad,Mobile,58,47,49.2,195,3,rent apartment,2.3,0.0517
+2025-07-11,Listing_B,Delhi,Desktop,95,80,38.1,305,7,property near me,1.8,0.0737
+2025-07-12,Home,Bangalore,Mobile,102,86,44.6,163,5,buy apartment,2.4,0.049
+2025-07-12,Listing_C,Mumbai,Desktop,77,64,43.9,287,4,rent apartment,1.7,0.0519
+2025-07-13,Blog_Rental_Tips,Chennai,Mobile,38,30,69.8,93,1,affordable flats,2.6,0.0263
+2025-07-14,Listing_A,Pune,Desktop,69,57,46.3,223,3,property near me,1.9,0.0435
+2025-07-14,Home,Hyderabad,Mobile,91,76,50.5,149,4,buy apartment,2.2,0.044
+2025-07-15,Listing_B,Delhi,Desktop,86,72,37.4,318,6,rent apartment,1.6,0.0698
+2025-07-15,Listing_C,Mumbai,Mobile,53,43,61.2,171,2,property near me,2.5,0.0377
+2025-07-16,Home,Bangalore,Desktop,108,92,39.8,174,5,buy apartment,1.8,0.0463
+2025-07-16,Blog_Rental_Tips,Chennai,Mobile,36,29,74.6,85,0,affordable flats,2.4,0
+2025-07-17,Listing_A,Pune,Desktop,73,61,42.1,256,4,rent apartment,1.7,0.0548
+2025-07-17,Listing_B,Mumbai,Mobile,67,55,53.7,198,3,property near me,2.3,0.0448
+2025-07-18,Home,Hyderabad,Desktop,99,84,41.3,169,6,buy apartment,1.9,0.0606
+2025-07-18,Listing_C,Delhi,Mobile,49,40,59.4,163,2,affordable flats,2.6,0.0408
+2025-07-19,Blog_Rental_Tips,Bangalore,Desktop,42,34,67.2,98,1,rent apartment,2.1,0.0238
+2025-07-20,Listing_A,Chennai,Mobile,81,68,48.9,207,3,property near me,2.4,0.037
+2025-07-20,Home,Mumbai,Desktop,116,99,35.6,182,7,buy apartment,1.6,0.0603
+2025-07-21,Listing_B,Pune,Mobile,74,62,52.3,241,4,rent apartment,2.2,0.0541
+2025-07-21,Listing_C,Hyderabad,Desktop,82,69,40.2,293,5,property near me,1.8,0.061
+2025-07-22,Home,Delhi,Mobile,94,79,47.1,154,4,buy apartment,2.5,0.0426
+2025-07-22,Blog_Rental_Tips,Bangalore,Desktop,37,30,71.8,91,0,affordable flats,2,0
+2025-07-23,Listing_A,Mumbai,Mobile,63,52,54.6,186,2,rent apartment,2.3,0.0317
+2025-07-23,Listing_B,Chennai,Desktop,89,75,38.9,301,6,property near me,1.7,0.0674
+2025-07-24,Home,Pune,Mobile,70,58,55.8,137,3,buy apartment,2.4,0.0429
+2025-07-24,Listing_C,Mumbai,Desktop,78,65,44.7,279,4,rent apartment,1.9,0.0513
+2025-07-25,Blog_Rental_Tips,Hyderabad,Mobile,35,28,72.5,88,1,affordable flats,2.6,0.0286
+2025-07-26,Listing_A,Delhi,Desktop,71,59,45.4,234,3,property near me,1.8,0.0423
+2025-07-26,Home,Bangalore,Mobile,105,89,43.2,159,5,buy apartment,2.2,0.0476
+2025-07-27,Listing_B,Mumbai,Desktop,93,79,36.8,314,7,rent apartment,1.6,0.0753
+2025-07-27,Listing_C,Chennai,Mobile,55,45,60.3,175,2,property near me,2.5,0.0364
+2025-07-28,Home,Pune,Desktop,101,86,40.5,171,5,buy apartment,1.8,0.0495
+2025-07-28,Blog_Rental_Tips,Hyderabad,Mobile,40,32,70.4,94,0,affordable flats,2.4,0
+2025-07-29,Listing_A,Delhi,Desktop,76,63,43.6,267,4,rent apartment,1.7,0.0526
+2025-07-29,Listing_B,Bangalore,Mobile,66,54,51.9,211,3,property near me,2.3,0.0455
+2025-07-30,Home,Mumbai,Desktop,111,95,37.9,176,6,buy apartment,1.9,0.0541
+2025-07-30,Listing_C,Chennai,Mobile,52,42,63.7,168,1,affordable flats,2.6,0.0192
+2025-07-31,Blog_Rental_Tips,Pune,Desktop,39,31,68.3,97,1,rent apartment,2.1,0.0256
+2025-08-01,Listing_A,Mumbai,Mobile,85,71,46.8,198,3,property near me,2.4,0.0353
+2025-08-01,Home,Hyderabad,Desktop,107,91,38.4,180,6,buy apartment,1.7,0.0561
+2025-08-02,Listing_B,Delhi,Mobile,72,60,50.7,228,4,rent apartment,2.2,0.0556
+2025-08-02,Listing_C,Bangalore,Desktop,80,67,41.6,284,5,property near me,1.8,0.0625
+2025-08-03,Home,Chennai,Mobile,96,81,45.9,152,4,buy apartment,2.5,0.0417
+2025-08-03,Blog_Rental_Tips,Pune,Desktop,38,30,73.1,90,0,affordable flats,2,0
+2025-08-04,Listing_A,Mumbai,Mobile,61,50,56.2,181,2,rent apartment,2.3,0.0328
+2025-08-04,Listing_B,Hyderabad,Desktop,91,77,39.7,308,7,property near me,1.7,0.0769
+2025-08-05,Home,Delhi,Mobile,103,87,42.8,161,5,buy apartment,2.4,0.0485
+2025-08-05,Listing_C,Bangalore,Desktop,75,62,44.1,272,4,rent apartment,1.9,0.0533
+2025-08-06,Blog_Rental_Tips,Mumbai,Mobile,36,29,74.9,86,1,affordable flats,2.6,0.0278
+2025-08-06,Listing_A,Chennai,Desktop,68,56,47.5,245,3,property near me,1.8,0.0441
+2025-08-07,Home,Pune,Mobile,89,75,49.3,147,4,buy apartment,2.2,0.0449
+2025-08-07,Listing_B,Mumbai,Desktop,87,73,37.2,321,6,rent apartment,1.6,0.069
+2025-08-08,Listing_C,Hyderabad,Mobile,54,44,62.8,173,2,property near me,2.5,0.037
+2025-08-08,Home,Delhi,Desktop,109,93,39.1,173,5,buy apartment,1.8,0.0459
+2025-08-09,Blog_Rental_Tips,Bangalore,Mobile,41,33,69.5,92,0,affordable flats,2.4,0
+2025-08-09,Listing_A,Chennai,Desktop,74,61,42.9,261,4,rent apartment,1.7,0.0541
+2025-08-10,Listing_B,Pune,Mobile,69,57,52.6,215,3,property near me,2.3,0.0435
+2025-08-10,Home,Mumbai,Desktop,114,97,36.5,179,7,buy apartment,1.9,0.0614
+2025-08-11,Listing_C,Hyderabad,Mobile,50,41,58.1,166,2,affordable flats,2.6,0.04
+2025-08-12,Blog_Rental_Tips,Delhi,Desktop,37,29,71.6,95,1,rent apartment,2.1,0.027
+2025-08-12,Listing_A,Bangalore,Mobile,83,69,48.2,203,3,property near me,2.4,0.0361
+2025-08-13,Home,Chennai,Desktop,106,90,40.8,168,6,buy apartment,1.7,0.0566
+2025-08-13,Listing_B,Pune,Mobile,73,61,51.1,237,4,rent apartment,2.2,0.0548
+2025-08-14,Listing_C,Mumbai,Desktop,79,66,43.3,288,5,property near me,1.8,0.0633
+2025-08-14,Home,Hyderabad,Mobile,92,77,46.4,150,4,buy apartment,2.5,0.0435
+2025-08-15,Blog_Rental_Tips,Delhi,Desktop,39,31,72.9,89,0,affordable flats,2,0
+Google Search Suggestions,,,,,,,,,,,
+Display of Search Suggestions is required when using Grounding with Google Search.  Learn more,,,,,,,,,,,
+convert csv to markdown table,,,,,,,,,,,

@@ -1,0 +1,16 @@
+# Color Palette (Power BI Theme)
+
+Primary Colors:
+- #004A9F (Deep Blue)
+- #0075DC (Accent Blue)
+- #58C0FF (Light Blue)
+
+Secondary Colors:
+- #F4B400 (Warm Yellow)
+- #DB4437 (Soft Red)
+- #0F9D58 (Green)
+
+Neutral Colors:
+- #F5F5F5 (Background Light)
+- #333333 (Text Dark)
+- #808080 (Muted Gray)

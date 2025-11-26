@@ -1,0 +1,101 @@
+{
+  "name": "PropertyPulse AI Theme",
+  "dataColors": [
+    "#2F80ED",
+    "#1C3F8D",
+    "#2D9CDB",
+    "#27AE60",
+    "#F2994A",
+    "#EB5757"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#4F4F4F",
+  "tableAccent": "#2F80ED",
+
+  "visualStyles": {
+    "*": {
+      "*": {
+        "color": { "solid": { "color": "#4F4F4F" }},
+        "fontFamily": "Segoe UI"
+      }
+    },
+
+    "titleText": {
+      "*": {
+        "color": { "solid": { "color": "#1C3F8D" }},
+        "fontSize": 26,
+        "fontFamily": "Segoe UI Semibold"
+      }
+    },
+
+    "header": {
+      "*": {
+        "fontSize": 14,
+        "fontFamily": "Segoe UI Semibold",
+        "background": { "solid": { "color": "#F2F2F2" }},
+        "color": { "solid": { "color": "#1C3F8D" }}
+      }
+    },
+
+    "slicer": {
+      "*": {
+        "background": { "solid": { "color": "#FFFFFF" }},
+        "general": {
+          "outline": "BottomOnly",
+          "outlineColor": { "solid": { "color": "#E0E0E0" }}
+        }
+      }
+    },
+
+    "card": {
+      "*": {
+        "background": { "solid": { "color": "#FFFFFF" }},
+        "color": { "solid": { "color": "#1C3F8D" }},
+        "borderColor": { "solid": { "color": "#E0E0E0" }},
+        "borderRadius": 6,
+        "fontFamily": "Segoe UI"
+      }
+    },
+
+    "multiRowCard": {
+      "*": {
+        "background": { "solid": { "color": "#FFFFFF" }},
+        "borderColor": { "solid": { "color": "#E0E0E0" }}
+      }
+    },
+
+    "tableEx": {
+      "*": {
+        "grid": {
+          "color": { "solid": { "color": "#E0E0E0" }},
+          "outlineColor": { "solid": { "color": "#E0E0E0" }}
+        },
+        "header": {
+          "background": { "solid": { "color": "#F2F2F2" }},
+          "fontFamily": "Segoe UI Semibold",
+          "fontSize": 12
+        },
+        "values": {
+          "fontSize": 11,
+          "fontFamily": "Segoe UI"
+        }
+      }
+    },
+
+    "matrix": {
+      "*": {
+        "grid": {
+          "outlineColor": { "solid": { "color": "#E0E0E0" }}
+        },
+        "subtotals": {
+          "fontFamily": "Segoe UI Semibold"
+        }
+      }
+    }
+  },
+
+  "textClasses": {
+    "header": { "fontSize": 18, "fontFamily": "Segoe UI Semibold" },
+    "body": { "fontSize": 12, "fontFamily": "Segoe UI" }
+  }
+}
