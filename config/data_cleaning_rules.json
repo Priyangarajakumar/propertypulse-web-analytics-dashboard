@@ -1,0 +1,31 @@
+{
+  "cleaning_steps": {
+    "bounce_rate_cleanup": {
+      "operation": "remove_percent_and_convert_to_float",
+      "source_column": "bounce_rate",
+      "target_column": "bounce_rate"
+    },
+    "weekly_aggregation": {
+      "frequency": "weekly",
+      "dimensions": ["date", "page", "city", "device"],
+      "metrics": {
+        "sessions": "sum",
+        "conversions": "sum",
+        "bounce_rate": "avg",
+        "conversion_rate": "avg",
+        "page_load_time": "avg"
+      }
+    },
+    "city_normalization": {
+      "value_mapping": {
+        "Delhi": "New Delhi",
+        "Bangalore": "Bangalore/Bengaluru",
+        "Hyderabad": "Hyderabad/Nizamabad",
+        "Pune": "Pune (Maharashtra)",
+        "Mumbai": "Mumbai (Gujarat & Maharashtra)",
+        "Chennai": "Chennai (Tamil Nadu)"
+      },
+      "target_column": "city"
+    }
+  }
+}

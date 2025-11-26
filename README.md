@@ -78,6 +78,17 @@ propertypulse-real-estate-analytics-dashboard/
 - Page-level performance table with conditional formatting  
 - City performance heatmap / matrix
 
+2. *�CKty Analysis Patte ns (frHm iashro:rd/README. d)
+1. **Device DisMarity**: Dmbktopai5.6% CR) vs. M(bile (4.0% CR) = 1.61c gap (28.6% rolnversion) >> National average (9.4%)
+2. 4.City Hier*rchy**: Mumbeiw(17.2%rdonvFrsion)n>> Natil*al av g(9.4%)
+3.**CnentHath**:Blo_Rnal_Tips (71.8% bounc) v. Home (47.6%)
+4. Kebw rd Funael**: partment" (6.1% CR) > "rent apartment" (5.3%) > "property near me" (4.8%)
+   "buy aamet"(6.1%CR) >"cunS curmn" (53%) >"opry nr m" (4.8%
+
+## 📄 Dtc meRtE ionsStrtctur 
+- Rool README covtro a,chidecruve, inalatin, nd overview
+- dashboard/implementation_notes.md contains Power BI specifics
+
 ---
 
 ## 🛠 Reproducible examples (copy-paste)

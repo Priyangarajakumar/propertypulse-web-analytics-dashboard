@@ -1,0 +1,25 @@
+{
+  "theme_name": "PropertyPulse AI Theme",
+  "color_palette": [
+    "#2F80ED",
+    "#1C3F8D",
+    "#2D9CDB",
+    "#27AE60",
+    "#F2994A",
+    "#EB5757"
+  ],
+  "typography": {
+    "primary_font": "Segoe UI",
+    "heading_font": "Segoe UI Semibold"
+  },
+  "visual_styles": {
+    "card": {
+      "border_radius": 6,
+      "border_color": "#E0E0E0"
+    },
+    "table": {
+      "grid_color": "#E0E0E0",
+      "header_background": "#F2F2F2"
+    }
+  }
+}
